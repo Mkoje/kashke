@@ -1,0 +1,44 @@
+project_id = "kash-ke"
+
+[functions.mpesa-deposit]
+verify_jwt = false
+
+[functions.mpesa-callback]
+verify_jwt = false
+
+[functions.send-push]
+verify_jwt = false
+
+[functions.send-contact-mail]
+verify_jwt = false
+
+[api]
+enabled = true
+schemas = ["public", "graphql_public"]
+extra_search_path = ["public", "extensions"]
+max_rows = 1000
+
+[db]
+major_version = 15
+
+[auth]
+enabled = true
+site_url = "http://localhost:3000"
+additional_redirect_urls = ["http://localhost:3000"]
+jwt_expiry = 3600
+enable_signup = true
+minimum_password_length = 8
+password_requirements = "lower_upper_letters_digits_symbols"
+
+[auth.email]
+enable_signup = false
+double_confirm_changes = true
+enable_confirmations = false
+secure_password_change = true
+
+[realtime]
+enabled = true
+
+[auth.sms]
+enable_signup = true
+enable_confirmations = false

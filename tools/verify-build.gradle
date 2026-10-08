@@ -1,0 +1,4 @@
+// Keep verification output in the same location as the project's normal builds.
+allprojects {
+    layout.buildDirectory.set(new File(projectDir, "build-development-auth"))
+}

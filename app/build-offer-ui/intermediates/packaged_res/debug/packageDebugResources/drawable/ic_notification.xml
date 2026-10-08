@@ -1,0 +1,5 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="24dp" android:height="24dp" android:viewportWidth="512" android:viewportHeight="512">
+<!-- White brand silhouette; the remaining canvas is transparent. -->
+<path android:fillColor="#FFFFFFFF" android:pathData="M256,99a27,27 0,1 0,0 54a27,27 0,1 0,0 -54 M140,299a27,27 0,1 0,0 54a27,27 0,1 0,0 -54 M371,299a27,27 0,1 0,0 54a27,27 0,1 0,0 -54 M169,208Q185,176 221,161Q230,182 256,182Q282,182 291,161Q326,176 343,208Q300,191 256,191Q212,191 169,208Z M168,211Q146,240 153,279Q180,276 192,303Q203,330 188,349Q214,363 250,362Q257,362 253,356Q179,301 168,211Z M345,211Q366,241 359,279Q332,276 320,303Q309,330 324,349Q297,363 262,362Q255,362 259,356Q333,301 345,211Z" />
+<path android:fillColor="#00000000" android:pathData="M217,289L238,270L254,284L295,238 M276,236L299,236L299,262" android:strokeColor="#FFFFFFFF" android:strokeWidth="20" android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>

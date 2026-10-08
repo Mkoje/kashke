@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kashke.app.data.repository.UnifiedAuthTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-06T14:40:40" hostname="IMMAN" time="0.035">
+  <properties/>
+  <testcase name="installedSdkEncodesRealPasswordProviders" classname="com.kashke.app.data.repository.UnifiedAuthTest" time="0.003"/>
+  <testcase name="onboardingThresholdAndTrustCopy" classname="com.kashke.app.data.repository.UnifiedAuthTest" time="0.024"/>
+  <testcase name="detectsAndNormalizesBothIdentifiers" classname="com.kashke.app.data.repository.UnifiedAuthTest" time="0.003"/>
+  <testcase name="profileAsksOnlyForMissingContactValues" classname="com.kashke.app.data.repository.UnifiedAuthTest" time="0.001"/>
+  <testcase name="phoneErrorsAndLegacyFallbackStayNarrow" classname="com.kashke.app.data.repository.UnifiedAuthTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

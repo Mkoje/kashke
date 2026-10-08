@@ -1,0 +1,97 @@
+[
+  {
+    "label": "Migration-only missing app RPCs",
+    "rows": [
+      {
+        "name": "edit_loan_offer",
+        "installed": null
+      },
+      {
+        "name": "cancel_loan_offer",
+        "installed": null
+      },
+      {
+        "name": "accept_loan_offer_reviewed",
+        "installed": null
+      }
+    ]
+  },
+  {
+    "label": "Historical report replay removes current profile API",
+    "value": true
+  },
+  {
+    "label": "Direct profile update used by ProfileRepository",
+    "result": "success"
+  },
+  {
+    "label": "First terms request",
+    "result": "success"
+  },
+  {
+    "label": "Second terms request same offer pending",
+    "result": "rejected",
+    "code": "P0001",
+    "message": "Offer is no longer available"
+  },
+  {
+    "label": "Terms on a different eligible offer",
+    "result": "success"
+  },
+  {
+    "label": "Lender accepts period beyond original request preference",
+    "result": "success"
+  },
+  {
+    "label": "Terms after lender response",
+    "result": "success"
+  },
+  {
+    "label": "Terms response on expired parent before maintenance",
+    "result": "success"
+  },
+  {
+    "label": "Terms request on expired parent before maintenance",
+    "result": "success"
+  },
+  {
+    "label": "Edit above-limit request down to within limit",
+    "result": "success"
+  },
+  {
+    "label": "Edited request disclosure",
+    "rows": [
+      {
+        "requested_amount": 50,
+        "above_limit_requested": true
+      }
+    ]
+  },
+  {
+    "label": "Repayment when total wallet covers payment but available wallet does not",
+    "result": "rejected",
+    "code": "23514",
+    "message": "new row for relation \"wallets\" violates check constraint \"wallets_check\""
+  },
+  {
+    "label": "Live-local overloads",
+    "rows": [
+      {
+        "proname": "complete_member_profile",
+        "args": "p_full_name text, p_username text, p_email text"
+      },
+      {
+        "proname": "complete_member_profile",
+        "args": "p_full_name text, p_username text, p_email text, p_phone text"
+      },
+      {
+        "proname": "request_loan_offer_terms",
+        "args": "p_offer_id uuid, p_interest_rate numeric, p_period_days integer"
+      }
+    ]
+  },
+  {
+    "label": "Consolidated hosted metadata query executes locally",
+    "result": "success"
+  }
+]

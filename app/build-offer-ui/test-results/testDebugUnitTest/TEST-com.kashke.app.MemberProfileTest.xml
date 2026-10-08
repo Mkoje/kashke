@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kashke.app.MemberProfileTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-06T14:40:38" hostname="IMMAN" time="0.203">
+  <properties/>
+  <testcase name="actualPostgresMemberProjectionDecodesWithoutPrivateAccountData" classname="com.kashke.app.MemberProfileTest" time="0.098"/>
+  <testcase name="johnsPrivateGaugeIsVisibleOnlyToJohn" classname="com.kashke.app.MemberProfileTest" time="0.001"/>
+  <testcase name="largeDebtTotalsAndInconclusiveHistoryRemainExact" classname="com.kashke.app.MemberProfileTest" time="0.104"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kashke.app.data.repository.SupabaseSessionStateTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-10-06T14:40:40" hostname="IMMAN" time="0.022">
+  <properties/>
+  <testcase name="authenticatedProfileHydrationRejectsRowsForOtherUsers" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.004"/>
+  <testcase name="savedContactEmailHydratesForPhoneOnlyOwnerAndStaysPrivate" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.002"/>
+  <testcase name="expiredSessionIsRejected" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.002"/>
+  <testcase name="repositoryMustNotUseStalePreRestorationNullSession" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.001"/>
+  <testcase name="freshAuthenticatedSessionIsAccepted" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.0"/>
+  <testcase name="emptyGenericDirectoryResultIsNotTreatedAsSessionEnded" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.001"/>
+  <testcase name="committedProfileUnlocksRequestsWithoutARefreshAndPreservesAccountMetrics" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.001"/>
+  <testcase name="biometricUnlockRequiresAValidRestoredSession" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.001"/>
+  <testcase name="actualLogoutOrSessionDestructionIsRejected" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.0"/>
+  <testcase name="pagingUsesTheActualPrimaryKeyColumnsForTablesWithoutAnId" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.001"/>
+  <testcase name="missingContactEmailUsesCurrentAuthenticatedEmail" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.0"/>
+  <testcase name="authenticatedProfileHydrationDoesNotNeedPublicDirectoryResults" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.003"/>
+  <testcase name="authenticatedProfileHydrationUsesOnlyTheFilteredProfilesReader" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.002"/>
+  <testcase name="genuinelyAbsentSessionIsRejected" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.001"/>
+  <testcase name="rememberedAccountWithoutBackendSessionStaysLocked" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.0"/>
+  <testcase name="persistedValidSessionRestorationLoadsAuthenticatedRepository" classname="com.kashke.app.data.repository.SupabaseSessionStateTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

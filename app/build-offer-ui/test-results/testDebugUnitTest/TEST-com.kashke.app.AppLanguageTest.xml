@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kashke.app.AppLanguageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-10-06T14:40:38" hostname="IMMAN" time="0.065">
+  <properties/>
+  <testcase name="languageChangesLabelsAndPreservesMemberNamesAndAmounts" classname="com.kashke.app.AppLanguageTest" time="0.065"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

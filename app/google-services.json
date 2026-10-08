@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887080977445",
+    "project_id": "kashke",
+    "storage_bucket": "kashke.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887080977445:android:058c94d048a4a4fb186bcc",
+        "android_client_info": {
+          "package_name": "com.kashke.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-AZUdFPiWab6b_YHLfS-KLjCWTpJTYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

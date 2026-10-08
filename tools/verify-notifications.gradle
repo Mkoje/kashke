@@ -1,0 +1,6 @@
+// Isolate notification verification from resource JARs locked by Android Studio on Windows.
+allprojects {
+    afterEvaluate {
+        layout.buildDirectory.set(new File(projectDir, "build-notifications"))
+    }
+}

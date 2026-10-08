@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kashke.app.data.repository.DatabaseRecordsTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-10-06T14:40:40" hostname="IMMAN" time="0.065">
+  <properties/>
+  <testcase name="communityActionsFollowPersistedOfferForCurrentLenderAndRequest" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.005"/>
+  <testcase name="safePublicDirectoryProjectionDecodesWithoutPrivateFinancialColumns" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.002"/>
+  <testcase name="connectionStatusContractDecodesSupabaseUppercaseValues" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.002"/>
+  <testcase name="realDatabaseRowsDecodeIntoEveryDomainModel" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.019"/>
+  <testcase name="diagnosticsRedactTokensPasswordsAndKeys" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.003"/>
+  <testcase name="publicSearchUsesOnlyTheDirectoryQueryArgument" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.008"/>
+  <testcase name="publicProfileLookupUsesProfileIds" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.003"/>
+  <testcase name="contactMatchingUsesPhoneNumbersAndRequiresMatchedPhone" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.004"/>
+  <testcase name="publicDirectoryContractDecodesRequiredAndOptionalUserFields" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.0"/>
+  <testcase name="monetaryConversionRejectsOverflowAndFractionalValues" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.0"/>
+  <testcase name="publicDirectoryRequestUsesTheSqlArgumentNamesAndJsonArrayTypes" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.001"/>
+  <testcase name="publicProfileBatchLookupUsesAllRequestedProfileIds" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.006"/>
+  <testcase name="availableSupportBalanceUsesWalletBalanceMinusLockedReserve" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.001"/>
+  <testcase name="rpcDiagnosticsCaptureFunctionContextWithoutLeakingSecrets" classname="com.kashke.app.data.repository.DatabaseRecordsTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

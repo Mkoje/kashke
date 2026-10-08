@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kashke.app.data.repository.AuthProviderRequestsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-06T14:40:38" hostname="IMMAN" time="1.897">
+  <properties/>
+  <testcase name="passwordChangeChecksCurrentCredentialsBeforeUpdatingPassword" classname="com.kashke.app.data.repository.AuthProviderRequestsTest" time="1.85"/>
+  <testcase name="signupAndLoginSendRealEmailOrPhoneAndPreserveAuthUuid" classname="com.kashke.app.data.repository.AuthProviderRequestsTest" time="0.046"/>
+  <testcase name="authDiagnosticsNeverCopyPasswordOrTokenBodies" classname="com.kashke.app.data.repository.AuthProviderRequestsTest" time="0.001"/>
+  <system-out><![CDATA[Info: (Supabase-Core) SupabaseClient created! Please report any bugs you find.
+Info: (Supabase-Core) SupabaseClient created! Please report any bugs you find.
+Info: (Supabase-Core) SupabaseClient created! Please report any bugs you find.
+Info: (Supabase-Core) SupabaseClient created! Please report any bugs you find.
+Info: (Supabase-Core) SupabaseClient created! Please report any bugs you find.
+Info: (Supabase-Core) SupabaseClient created! Please report any bugs you find.
+Info: (Supabase-Core) SupabaseClient created! Please report any bugs you find.
+Info: (Supabase-Core) SupabaseClient created! Please report any bugs you find.
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

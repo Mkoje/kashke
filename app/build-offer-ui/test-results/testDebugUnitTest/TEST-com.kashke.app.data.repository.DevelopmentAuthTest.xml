@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kashke.app.data.repository.DevelopmentAuthTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-06T14:40:40" hostname="IMMAN" time="0.011">
+  <properties/>
+  <testcase name="equivalentMobileFormatsShareIdentifier" classname="com.kashke.app.data.repository.DevelopmentAuthTest" time="0.001"/>
+  <testcase name="internalIdentifierIsNotPublicEmail" classname="com.kashke.app.data.repository.DevelopmentAuthTest" time="0.0"/>
+  <testcase name="signupEmailIsValidatedAndNormalized" classname="com.kashke.app.data.repository.DevelopmentAuthTest" time="0.001"/>
+  <testcase name="registrationUsesRealEmailAndLegacyPhoneLoginRemainsAvailable" classname="com.kashke.app.data.repository.DevelopmentAuthTest" time="0.008"/>
+  <testcase name="signupDetailsAreValidatedAndNormalizedBeforeAuthCreation" classname="com.kashke.app.data.repository.DevelopmentAuthTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

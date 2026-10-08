@@ -1,0 +1,62 @@
+--------- beginning of main
+10-05 21:35:20.204 13611 13611 D KashKeRuntime: stage=REPOSITORY_LOAD_START authInitialized=false sessionPresent=false userPresent=false
+10-05 21:35:20.205 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:20.205 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:20.206 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:20.206 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:21.269 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:35:21.773 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:35:23.732 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3
+10-05 21:35:25.239 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:35:25.239 13611 13611 D KashKeRuntime: stage=REPOSITORY_LOAD_SUCCESS authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:30.647 13611 13611 D KashKeRuntime: stage=REPOSITORY_LOAD_START authInitialized=false sessionPresent=false userPresent=false
+10-05 21:35:30.648 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:30.648 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:30.648 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:30.648 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:32.162 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:35:32.474 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:35:33.746 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3
+10-05 21:35:34.995 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:35:34.995 13611 13611 D KashKeRuntime: stage=REPOSITORY_LOAD_SUCCESS authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:36.080 13611 13611 D KashKeRuntime: stage=CONNECTION_PROFILES requested=5 returned=5 missing=0
+10-05 21:35:49.997 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:49.997 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:35:51.280 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:35:51.605 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:35:53.197 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3
+10-05 21:36:09.329 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:36:09.329 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:36:09.970 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:36:10.668 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:36:13.360 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3
+10-05 21:36:29.381 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:36:29.381 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:36:30.074 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:36:30.423 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:36:31.769 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3
+10-05 21:36:47.810 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:36:47.810 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:36:48.456 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:36:48.714 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:36:50.462 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3
+10-05 21:37:06.566 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:37:06.566 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:37:07.203 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:37:07.476 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:37:08.807 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3
+10-05 21:37:11.530 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:37:11.530 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:37:12.502 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:37:12.767 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:37:14.031 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3
+10-05 21:37:24.763 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:37:24.763 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:37:25.365 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:37:25.663 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:37:26.948 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3
+10-05 21:37:42.996 13611 13611 D KashKeRuntime: stage=SESSION_RESTORED authInitialized=true sessionPresent=true userPresent=true
+10-05 21:37:42.997 13611 13611 D KashKeRuntime: stage=REPOSITORY_AUTH_CHECK authInitialized=true sessionPresent=true userPresent=true
+10-05 21:37:43.618 13611 13611 D KashKeRuntime: stage=PROFILE_ROWS count=1 containsCurrentUser=true
+10-05 21:37:43.935 13611 13611 D KashKeRuntime: stage=USER_STATE count=1 containsCurrentUser=true
+10-05 21:37:45.562 13611 13611 D KashKeRuntime: stage=CONNECTION_STATE rows=11 accepted=8 pending=3

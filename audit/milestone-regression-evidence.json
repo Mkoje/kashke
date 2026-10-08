@@ -1,0 +1,17 @@
+{
+  "checks": 103,
+  "migration": "202610050001_android_contract_reconciliation.sql",
+  "sha256": "ab878469248b8f14b62a276bfd9ee1b71ad542e47590c674c33e52938e02a645",
+  "historicalSuiteChecks": 0,
+  "engines": [
+    "PGlite hosted metadata reconstruction"
+  ],
+  "milestoneMigration": "202610050002_first_trust_milestones.sql",
+  "hostedApplied": false,
+  "legacyReceiptSchema": "inferred and prerequisite checked; not authoritative",
+  "limitations": [
+    "No HTTP PostgREST runtime",
+    "No multi-session PostgreSQL concurrency",
+    "No hosted Auth/Cron emulation"
+  ]
+}

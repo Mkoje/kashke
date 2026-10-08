@@ -1,0 +1,14 @@
+/.gradle/
+/.idea/
+/.build-verification/
+/.build-output/
+/local.properties
+/supabase/tk.txt
+**/.env
+**/.env.*
+!**/.env.example
+**/build/
+**/build-development-auth/
+**/build-notifications/
+**/node_modules/
+/tools/sdk-inspection/

@@ -1,0 +1,37 @@
+{
+  "android": {
+    "tests": 74,
+    "failures": 0,
+    "debugBuild": "passed",
+    "directory": "app/build-development-auth",
+    "hostedAuthSignupTested": false
+  },
+  "sqlMilestones": {
+    "checks": 42,
+    "passed": true,
+    "hostedModified": false,
+    "fixture": "inspected hosted snapshot plus reconciled contract",
+    "limitations": [
+      "PGlite serial execution; concurrent lock contention not simulated"
+    ]
+  },
+  "sqlRegressions": {
+    "checks": 103,
+    "migration": "202610050001_android_contract_reconciliation.sql",
+    "sha256": "ab878469248b8f14b62a276bfd9ee1b71ad542e47590c674c33e52938e02a645",
+    "historicalSuiteChecks": 0,
+    "engines": [
+      "PGlite hosted metadata reconstruction"
+    ],
+    "milestoneMigration": "202610050002_first_trust_milestones.sql",
+    "hostedApplied": false,
+    "legacyReceiptSchema": "inferred and prerequisite checked; not authoritative",
+    "limitations": [
+      "No HTTP PostgREST runtime",
+      "No multi-session PostgreSQL concurrency",
+      "No hosted Auth/Cron emulation"
+    ]
+  },
+  "hostedSqlApplied": false,
+  "authSettingsReadOnly": true
+}

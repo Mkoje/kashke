@@ -1,0 +1,9 @@
+{
+  "checks": 42,
+  "passed": true,
+  "hostedModified": false,
+  "fixture": "inspected hosted snapshot plus reconciled contract",
+  "limitations": [
+    "PGlite serial execution; concurrent lock contention not simulated"
+  ]
+}

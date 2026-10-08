@@ -1,0 +1,1 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"><instrumentation android:name="com.kashke.app.NotificationHarness" android:targetPackage="com.kashke.app" android:label="Notification verification" /></manifest>

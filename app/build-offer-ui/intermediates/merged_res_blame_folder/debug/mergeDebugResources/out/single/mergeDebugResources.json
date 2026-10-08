@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.kashke.app-debug-76:/drawable-nodpi_ic_launcher_foreground.png.flat",
+        "source": "com.kashke.app-main-78:/drawable-nodpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/drawable_ic_notification.xml.flat",
+        "source": "com.kashke.app-main-78:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kashke.app-main-78:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kashke.app-main-78:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/drawable-nodpi_kashke_logo.png.flat",
+        "source": "com.kashke.app-main-78:/drawable-nodpi/kashke_logo.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/drawable-nodpi_kashke_symbol.png.flat",
+        "source": "com.kashke.app-main-78:/drawable-nodpi/kashke_symbol.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/drawable_ic_launcher_brand.xml.flat",
+        "source": "com.kashke.app-main-78:/drawable/ic_launcher_brand.xml"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/raw_kashke_loop.gif.flat",
+        "source": "com.kashke.app-main-78:/raw/kashke_loop.gif"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kashke.app-debug-76:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.kashke.app-main-78:/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

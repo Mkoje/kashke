@@ -1,0 +1,3 @@
+allprojects {
+    layout.buildDirectory.set(new File(projectDir, "build-development-auth"))
+}

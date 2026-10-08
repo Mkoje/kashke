@@ -1,0 +1,7 @@
+{
+  "external_email": true,
+  "external_phone": true,
+  "mailer_autoconfirm": true,
+  "phone_autoconfirm": true,
+  "disable_signup": false
+}

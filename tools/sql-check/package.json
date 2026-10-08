@@ -1,0 +1,16 @@
+{
+  "name": "kash-ke-database-validation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node verify.mjs && node verify-agreements.mjs && node verify-email-profile.mjs && node verify-reconciliation.mjs && node verify-flat-interest.mjs && node verify-named-notifications.mjs",
+    "test:notifications": "node verify-named-notifications.mjs",
+    "test:settings": "node verify-settings.mjs",
+    "test:contact": "node verify-contact.mjs && node verify-contact-mail.mjs",
+    "test:milestones": "node verify-first-milestones.mjs",
+    "test:milestone-regressions": "node verify-milestone-regressions.mjs"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.3.14"
+  }
+}
